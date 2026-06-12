@@ -239,21 +239,39 @@ GROUP BY loan_status;
 Add screenshots here:
 
 ```text
- 📊 Dashboard 1: Summary
+ <h2>📊 Dashboard 1: Summary</h2>
 
-Provides an overview of loan portfolio performance through key KPIs such as Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and Average DTI.
+<p align="center">
+  <img src="dashboard-screenshots/summary-dashboard.png" width="100%">
+</p>
 
-![Summary Dashboard](Dashboard%20Screenshots/SUMMARY%20PAGE.png)
-## 📈 Dashboard 2: Overview
+<h2>📈 Dashboard 2: Overview</h2>
 
-Provides insights into lending trends, state-wise analysis, loan purpose breakdown, employment length analysis, and home ownership analysis.
+<p align="center">
+  <img src="dashboard-screenshots/overview-dashboard.png" width="100%">
+</p>
 
-![Overview Dashboard](Dashboard%20Screenshots/OVERVIEW%20PAGE.png)
-## 📋 Dashboard 3: Details
+<h2>📋 Dashboard 3: Details</h2>
 
-Provides detailed loan-level reporting with dynamic filters and drill-down analysis.
+<p align="center">
+  <img src="<h2>📊 Dashboard 1: Summary</h2>
 
-![Details Dashboard](Dashboard%20Screenshots/DETAILS%20PAGE.png)
+<p align="center">
+  <img src="dashboard-screenshots/summary-dashboard.png" width="100%">
+</p>
+
+<h2>📈 Dashboard 2: Overview</h2>
+
+<p align="center">
+  <img src="dashboard-screenshots/overview-dashboard.png" width="100%">
+</p>
+
+<h2>📋 Dashboard 3: Details</h2>
+
+<p align="center">
+  <img src=""C:\Users\prana\OneDrive\Pictures\Screenshots\DETAILS PAGE.png"" width="100%">
+</p>" width="100%">
+</p>
 ```
 
 ---
