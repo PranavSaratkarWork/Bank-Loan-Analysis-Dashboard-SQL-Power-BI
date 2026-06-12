@@ -239,11 +239,21 @@ GROUP BY loan_status;
 Add screenshots here:
 
 ```text
-Bank Loan Dashboard Screenshots
-│
-├── Dashboard 1 - Summary.png
-├── Dashboard 2 - Overview.png
-└── Dashboard 3 - Details.png
+ 📊 Dashboard 1: Summary
+
+Provides an overview of loan portfolio performance through key KPIs such as Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and Average DTI.
+
+![Summary Dashboard](Dashboard%20Screenshots/SUMMARY%20PAGE.png)
+## 📈 Dashboard 2: Overview
+
+Provides insights into lending trends, state-wise analysis, loan purpose breakdown, employment length analysis, and home ownership analysis.
+
+![Overview Dashboard](Dashboard%20Screenshots/OVERVIEW%20PAGE.png)
+## 📋 Dashboard 3: Details
+
+Provides detailed loan-level reporting with dynamic filters and drill-down analysis.
+
+![Details Dashboard](Dashboard%20Screenshots/DETAILS%20PAGE.png)
 ```
 
 ---
