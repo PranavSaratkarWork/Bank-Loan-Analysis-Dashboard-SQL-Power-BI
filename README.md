@@ -242,36 +242,21 @@ Add screenshots here:
  <h2>📊 Dashboard 1: Summary</h2>
 
 <p align="center">
-  <img src="dashboard-screenshots/summary-dashboard.png" width="100%">
+  <img src="[dashboard-screenshots/summary-dashboard.png](https://github.com/PranavSaratkarWork/Bank-Loan-Analysis-Dashboard-SQL-Power-BI/blob/11e3bccec009a6344f2bd5bcb720fd51e1b02a23/SUMMARY%20PAGE.png)" width="100%">
 </p>
 
 <h2>📈 Dashboard 2: Overview</h2>
 
 <p align="center">
-  <img src="dashboard-screenshots/overview-dashboard.png" width="100%">
+  <img src="[dashboard-screenshots/overview-dashboard.png](https://github.com/PranavSaratkarWork/Bank-Loan-Analysis-Dashboard-SQL-Power-BI/blob/11e3bccec009a6344f2bd5bcb720fd51e1b02a23/OVERVIEW%20PAGE.png)" width="100%">
 </p>
 
 <h2>📋 Dashboard 3: Details</h2>
 
 <p align="center">
-  <img src="<h2>📊 Dashboard 1: Summary</h2>
+  <img src=https://github.com/PranavSaratkarWork/Bank-Loan-Analysis-Dashboard-SQL-Power-BI/blob/11e3bccec009a6344f2bd5bcb720fd51e1b02a23/DETAILS%20PAGE.png"<h2>📊 Dashboard 1: Summary</h2>
 
-<p align="center">
-  <img src="dashboard-screenshots/summary-dashboard.png" width="100%">
-</p>
 
-<h2>📈 Dashboard 2: Overview</h2>
-
-<p align="center">
-  <img src="dashboard-screenshots/overview-dashboard.png" width="100%">
-</p>
-
-<h2>📋 Dashboard 3: Details</h2>
-
-<p align="center">
-  <img src=""C:\Users\prana\OneDrive\Pictures\Screenshots\DETAILS PAGE.png"" width="100%">
-</p>" width="100%">
-</p>
 ```
 
 ---
